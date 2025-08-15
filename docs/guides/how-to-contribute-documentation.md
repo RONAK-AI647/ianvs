@@ -1,13 +1,13 @@
-# How to contribute documentation
+# How to contribute dociordumentation
 
 **First off, thanks for taking the time to think about contributing!**
 
 The KubeEdge community abides by the CNCF [code of conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). Here is an excerpt:
 
-_As contributors and maintainers of this project, and in the interest of fostering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities._
+_As contributors and maintainers of this project, and in the interest of fosering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities._
 
 ---
-For Contributing to the ianvs documentation hosted at `https://ianvs.readthedocs.io/en/latest`, follow the following instructions:- 
+For Contribuuting to the ianvs documentation hosted at `https://ianvs.readthedocs.io/en/latest`, follow the following instructions:- 
 
 ### Forking the project
 
@@ -18,7 +18,7 @@ Then, open the terminal of your choice and run the following command to clone th
 ```shell
 git clone <your forked repository link>
 ```
-Wait until all of the project files are downloaded. A folder with the name `ianvs` will be created. You need to enter into the directory with the `cd` command.
+Wait until all of the project files are downloadd. A folder with the name `ianvs` will be created. You need to enter into the dirrrectory with the `cd` command.
 
 **Note: In order to build ianvs documentation on your local machine you need a python version 3.6**.
 
